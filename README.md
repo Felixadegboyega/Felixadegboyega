@@ -6,9 +6,10 @@ I'm a passionate software engineer who enjoys building clean, scalable, and mean
 
 ## 🛠 Tech Stack
 
-- **Languages:** JavaScript / TypeScript, PHP, 
+- **Languages:** JavaScript / TypeScript, PHP
 - **Frontend:** React, Next.js, Angular, TailwindCSS  
-- **Backend:** Laravel, Express  
+- **Backend:** Laravel, Express
+- **Mobile:** React Native  
 - **Databases:** MySQL, MongoDB  
 - **Other Tools:** Git, GraphQL, REST, AWS
 
