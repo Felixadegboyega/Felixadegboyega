@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hello there, I'm Felix Adegboyega
 
-<!--
-**Felixadegboyega/Felixadegboyega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer who enjoys building clean, scalable, and meaningful digital solutions. I thrive on solving problems, learning new technologies, and contributing to impactful projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript / TypeScript, PHP, 
+- **Frontend:** React, Next.js, Angular, TailwindCSS  
+- **Backend:** Laravel, Express  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** Git, GraphQL, REST, AWS
+
+---
+
+## 📫 Let's Connect
+
+- 💬 [Twitter](https://x.com/likzjoiy)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/licode-/)  
+- 📧 Email: felixadegboyega2019@gmail.com
+
+---
+
+<!-- ⚡ *Fun Fact:* I enjoy breaking down complex tech concepts into simple, practical lessons for others — teaching makes me a better developer. -->
+
